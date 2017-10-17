@@ -63,3 +63,6 @@ Hello there, here is a tiny starter I've build to answer my own needs.
 * [Gulp](http://gulpjs.com/) because it's faster than Grunt and Gulp sound better than Grunt
 * [SaSS](http://sass-lang.com/) because it saved me a lot of time
 * [CSSTricks](https://css-tricks.com/) for some cool articles on Gulp and more generaly this website rocks
+=======
+# Memo
+Useful snippets for general use.
