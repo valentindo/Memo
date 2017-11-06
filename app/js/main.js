@@ -59,5 +59,28 @@ $(function(){
     //         this.onMobile = $(window).innerWidth() <= 768;
     //     },
 
-	
-});
+	//////////////////////////////////
+	//         Bash Profile        //
+	////////////////////////////////
+
+	// source ~/.profile
+	// export PS1="\[\033[36m\]\u\[\033[m\]@\[\033[32m\]\h:\[\033[33;1m\]\w\[\033[m\]\$
+	// export CLICOLOR=1
+	// export LSCOLORS=ExFxBxDxCxegedabagacad
+	// alias ls='ls -GFh'
+	// echo "Welcome, Valentin"
+
+	// #############################
+	// ## FINDER PATH TO TERMINAL ##
+	// #############################
+	// cdf () {
+	//   finderPath=`osascript -e 'tell application "Finder"
+	//                                try
+	//                                    set currentFolder to (folder of the front wi$
+	//                                on error
+	//                                    set currentFolder to (path to desktop folder$
+	//                                end try
+	//                                POSIX path of currentFolder
+	//                             end tell'`;
+	//   cd "$finderPath"
+	// }
